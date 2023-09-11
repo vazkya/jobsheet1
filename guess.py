@@ -5,6 +5,6 @@ class tebakangka :
         self.jawaban = random.randint(1,10)
 
     def cek(self):
-        if self.tebakan == self.jawaban:
+            self.tebakan == self.jawaban:
             return True
             return false
